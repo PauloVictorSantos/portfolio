@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Bem vindo ao meu blog/PortFólio!"
+date:   2018-11-220 09:39:40 +0200
+img:
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
+categories: jekyll update
+---
+Bem vindo ao meu portfólio, estamos em processo de construção, por enquanto se quiser saber mais sobre mim. Estou no [Linkedin][linkedin-link], também pode conferir um pouco das tecnologias que trabalho no meu [Github][github-link].
+
+
+[linkedin-link]: https://www.linkedin.com/in/paulovictorln/
+[github-link]: https://github.com/PauloVictorSantos
+
+
